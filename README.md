@@ -1,7 +1,7 @@
 # ndless Modular Arithmetic (ndm-modular-arithmetic)
 A small program to perform modular arithmetic on TI-nspire calculators with ndless. This functionality already exists within the native OS, I wrote this to get used to the SDK.
 ## Setup
-1. Install the ndless framework onto your nspire calculator using the [TI-Planet guide](tiplanet.org/ndless).
+1. Install the ndless framework onto your nspire calculator using the [TI-Planet guide](https://tiplanet.org/ndless).
 2. Make sure the ndless framework is loaded (identified by green text in the top left saying "Ndless installed").
 3. Download the ".tns" file from the releases page and use the computer link software to copy the file to the calculator.
 4. Run the file from the Documents browser.
